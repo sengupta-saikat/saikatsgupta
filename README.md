@@ -1,7 +1,7 @@
 ### Hello, World! 🖖
 
 <!--
-**s4ik4t/s4ik4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saikatsgupta/saikatsgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=s4ik4t&theme=dark&show_icons=true&line_height=27)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saikatsgupta&theme=dark&show_icons=true&line_height=27)
