@@ -1,10 +1,10 @@
 ### Hello, World! 🖖
 
 - 🔭 I’m currently working on ... Myself 🐶
-- 🌱 I’m currently learning ... Go 🏌🏽
+- 🌱 I’m currently learning ... Go/Kubernetes 🏌🏽
 - 👯 I’m looking to collaborate on ... YouTube 🎥
 - 🤔 I’m looking for help with ... 🤔
-- 💬 Ask me about ... Automation 🚖
+- 💬 Ask me about ... DevOps/Automation 🚖
 - 📫 How to reach me: ... LinkedIn/Twitter 🐦
 - 😄 Pronouns: ... He/Him 🙋🏽‍♂️
 - ⚡ Fun fact: ... NPE 🛑
