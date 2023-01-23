@@ -1,4 +1,4 @@
-### Hello, World! 🖖
+## Hello, World! 🖖
 
 - 🔭 I’m currently working on ... Myself 🐶
 - 🌱 I’m currently learning ... Go/Kubernetes 🏌🏽
@@ -9,5 +9,8 @@
 - 😄 Pronouns: ... He/Him 🙋🏽‍♂️
 - ⚡ Fun fact: ... NPE 🛑
 
+## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=saikatsgupta&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## My Stack
 [![My Skills](https://skillicons.dev/icons?i=java,js,kotlin,bash,bootstrap,eclipse,idea,linux,md,maven,powershell,py,regex,spring,stackoverflow,selenium,vercel,vim,vscode,git&theme=dark)](https://skillicons.dev)
