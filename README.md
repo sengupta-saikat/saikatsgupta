@@ -9,8 +9,5 @@
 - 😄 Pronouns: ... He/Him 🙋🏽‍♂️
 - ⚡ Fun fact: ... NPE 🛑
 
-## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=saikatsgupta&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ## My Stack
-[![My Skills](https://skillicons.dev/icons?i=spring,java,js,css,html,bootstrap,kotlin,py,regex,bash,powershell,linux,git,github,eclipse,idea,vim,vscode,atom,md,maven,gradle,selenium,stackoverflow,vercel&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,azure,bash,bootstrap,css,devto,docker,eclipse,figma,gherkin,git,github,go,gradle,hibernate,html,idea,redis,ruby,spring,java,jenkins,jquery,js,kotlin,linux,maven,md,mongodb,postgres,postman,powershell,py,regex,selenium,spring,stackoverflow,vercel,vim,vscode&theme=dark&perline=5)](https://skillicons.dev)
